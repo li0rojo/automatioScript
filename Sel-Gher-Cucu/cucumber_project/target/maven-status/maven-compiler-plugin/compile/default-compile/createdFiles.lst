@@ -1,0 +1,9 @@
+CucumberTest\cucumber_project\boundary\ResetPasswordForm.class
+CucumberTest\cucumber_project\boundary\CurrentUser.class
+CucumberTest\cucumber_project\control\Util.class
+CucumberTest\cucumber_project\control\EmailSender.class
+CucumberTest\cucumber_project\control\UserControl.class
+CucumberTest\cucumber_project\entity\Role.class
+CucumberTest\cucumber_project\boundary\RegistrationForm.class
+CucumberTest\cucumber_project\entity\User.class
+CucumberTest\cucumber_project\boundary\SignInForm.class
